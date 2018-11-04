@@ -1,0 +1,2 @@
+# JP-ScratchWikiDiscordbot
+ややこしいけどDiscordだよ
